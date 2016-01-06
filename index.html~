@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ein Film an einem Tag</title>
+    <link rel="stylesheet" href="screen.css">
+    <script src="parallax2.js"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body style="background-image:url('http://i274.photobucket.com/albums/jj277/b_grrrlie/animated/stars.gif');">
+	<div id="pagecontainer">
+	    	<div class="page fullscreen parallax" data-parallax-level="10">
+			<h1>un·jour·un·film</h1>
+			<p>meet in a closed space/<br/>create a script, play, and cut/<br/>and finally: premiere!</p><p><em>all in one day.</em></p>
+		</div>
+		<div class="fullwidth" style="background-image:url('http://31.media.tumblr.com/e07f405b3e31af28dffccb479542c4ed/tumblr_n1kpbt9X461slpn8go1_500.gif');background-size:cover;padding:1% 0%;margin:-2% auto;max-width:47em; transform:rotate(-4deg);color:white;">
+		<p> Am Freitag wird die erste Episode aus dem <a href=>Jérôme-Universum</a> erfunden und gedreht: </p>
+		<p> Hardenbergstraße 33 (UdK), Atelier Nummer 92 (im hinterletzten Gebäude). </p>
+		<p> Kontakt: steroeb at gmail dot com </p>
+		</div>
+		<div class="page fullscreen parallax" data-parallax-level="10">
+			<h2>Wir freuen uns!</h2>		</div>
+	</div>
+  </body>
+</html>
